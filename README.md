@@ -4,8 +4,6 @@ Author : Mr Dk.
 
 Date : 2018.6.16, Nanjing, Jiangsu, China.
 
-Copyright : Jingtang Zhang @NUAA CCST IoT.
-
 Description : Implementation of K-Means algorithm with C/C++.
 
 ---
